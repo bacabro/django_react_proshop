@@ -2,6 +2,8 @@
 
 This project is from my Django + React collaboration wih Brad Traversy. 
 
+Live Demo can be viewed at https://www.buildproshop.com/
+
 Full Course: https://www.udemy.com/course/django-with-react-an-ecommerce-website/?couponCode=387F19CD4087385E87C1
 
 
